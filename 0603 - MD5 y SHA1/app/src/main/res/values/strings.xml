@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">act0603</string>
+
+    <string name="txt_hint">Escrige aquí un texto</string>
+    <string name="txt_button">Obtener el hash</string>
+    <string name="error_empty">Se necesita texto para calcular el hash.</string>
+
+    <string name="txt_MD5">MD5</string>
+    <string name="txt_SHA1">SHA1</string>
+</resources>
